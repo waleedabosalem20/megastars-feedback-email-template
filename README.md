@@ -10,7 +10,8 @@ This is a custom-designed HTML email template for **Mega Stars Tourism**, focuse
 - Clean typography and branding colors  
 
 ## Preview
-![Preview of Feedback Email](https://waleedabosalem20.github.io/megastars-feedback-email-template/)
+You can view the live feedback email template [here](https://waleedabosalem20.github.io/megastars-feedback-email-template/).
+
 
 ## How to Use
 1. Copy the code from `index.html`  
